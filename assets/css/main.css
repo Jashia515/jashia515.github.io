@@ -58,6 +58,10 @@ a {
     background-color: transparent;
     -webkit-text-decoration-skip: objects
 }
+.icon {
+  width: 50px; /* Adjust the width to your desired size */
+  height: 50px; /* Adjust the height to your desired size */
+}
 
 abbr[title] {
     border-bottom: none;
